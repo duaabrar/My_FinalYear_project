@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932211301756",
+    "project_id": "healsphere-d0253",
+    "storage_bucket": "healsphere-d0253.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932211301756:android:7959afd7af54ed8844d8f9",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT_i7v15jsB6PNbMCit3DGba0Lf0LMY2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
